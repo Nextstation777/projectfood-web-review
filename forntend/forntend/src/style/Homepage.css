@@ -1,0 +1,80 @@
+.topbar-home {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.navbar-home {
+  width: 100%;
+  position: fixed;
+  top: 80px; 
+  left: 30px;
+  left: 0;
+}
+
+.recomments-container {
+  margin-top: 200px; 
+  position: fixed;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: flex-start; 
+  gap: 50px;
+  left:120px;
+}
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px; 
+  transition: box-shadow 0.3s ease; 
+}
+
+.card-inner {
+  width: inherit;
+  height: inherit;
+  background: rgba(255,255,255,.05);
+  box-shadow: 0 0 10px rgba(0,0,0,0.25);
+  backdrop-filter: blur(10px);
+  border-radius: 8px;
+}
+.top-card {
+  width: 100%;
+}
+
+.top-card img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover; /* ปรับขนาดรูปภาพให้เต็มพื้นที่ */
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.bottom-card {
+  padding: 10px;
+  text-align: center;
+}
+
+.bottom-card h2 {
+  margin-top: 10px;
+}
+
+.bottom-card p {
+  margin-top: 5px;
+}
+
+.card:hover {
+  transform: scale(1.04) rotate(1deg);
+}
+
+.title5 {
+  text-align: left; /* จัดข้อความไปทางซ้าย */
+  margin-left: 20px; /* เพิ่มระยะห่างด้านซ้าย */
+  position: relative;
+  top:200px;
+}
+

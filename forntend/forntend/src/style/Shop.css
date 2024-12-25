@@ -1,0 +1,26 @@
+    .shop-content {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  
+  .shops-container {
+    margin-top: 200px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+    gap: 70px;
+    margin-left: 120px;
+  }
+  .title3 {
+    text-align: left; /* จัดข้อความไปทางซ้าย */
+    margin-left: 20px; 
+    position: relative;
+    top:200px;
+    bottom: 0;
+    
+  }
+.card{
+    position: relative;
+    gap: 5px;
+}

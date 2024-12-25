@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoPost\\a4ppflad.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoPost\\a4ppflad.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoPost\\d1ao5udp.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoPost\\d1ao5udp.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoPost\\u1wttoiy.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoPost\\u1wttoiy.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\0e4a3k4r.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\0e4a3k4r.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\e0vyhsmd.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\e0vyhsmd.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\kax04odh.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\kax04odh.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\ldeep0jz.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\ldeep0jz.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\rmzaicbe.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\rmzaicbe.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\tckiehxp.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\tckiehxp.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\wdczlxfx.png",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\wdczlxfx.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\znxdszev.png",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\znxdszev.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\CoverPhotoReview\\zrgy4hys.jpg",
+      "PackagePath": "staticwebassets\\CoverPhotoReview\\zrgy4hys.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImagePost\\3kqpgk1t.jpg",
+      "PackagePath": "staticwebassets\\ImagePost\\3kqpgk1t.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImagePost\\fhqyopzz.jpg",
+      "PackagePath": "staticwebassets\\ImagePost\\fhqyopzz.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImagePost\\gv00nspx.jpg",
+      "PackagePath": "staticwebassets\\ImagePost\\gv00nspx.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImagePost\\p5u1d3db.jpg",
+      "PackagePath": "staticwebassets\\ImagePost\\p5u1d3db.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImageReview\\geg3n0kx.jpg",
+      "PackagePath": "staticwebassets\\ImageReview\\geg3n0kx.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImageReview\\jy41lgkb.jpg",
+      "PackagePath": "staticwebassets\\ImageReview\\jy41lgkb.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ImageReview\\k1cengr2.jpg",
+      "PackagePath": "staticwebassets\\ImageReview\\k1cengr2.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\0mhd4p4f.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\0mhd4p4f.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\a0utqycm.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\a0utqycm.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\a4zs2rmx.jpg",
+      "PackagePath": "staticwebassets\\ProfilePic\\a4zs2rmx.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\ccfhhl1m.jpg",
+      "PackagePath": "staticwebassets\\ProfilePic\\ccfhhl1m.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\jgvo2dkd.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\jgvo2dkd.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\jtjx24tf.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\jtjx24tf.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\kbjm5ung.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\kbjm5ung.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\pgqizvkd.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\pgqizvkd.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\qot1kini.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\qot1kini.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\qz5xbvys.jpg",
+      "PackagePath": "staticwebassets\\ProfilePic\\qz5xbvys.jpg"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\t5otmpw5.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\t5otmpw5.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\wlzn2aca.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\wlzn2aca.png"
+    },
+    {
+      "Id": "C:\\Chetsada\\test\\React\\React\\wwwroot\\ProfilePic\\wuxnqyw3.png",
+      "PackagePath": "staticwebassets\\ProfilePic\\wuxnqyw3.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.React.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.React.props",
+      "PackagePath": "build\\React.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.React.props",
+      "PackagePath": "buildMultiTargeting\\React.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.React.props",
+      "PackagePath": "buildTransitive\\React.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
